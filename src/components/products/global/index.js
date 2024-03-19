@@ -26,6 +26,7 @@ export const global = {
         {
           title: 'Resources',
           links: [
+            { title: 'Guides', href: '/guides' },
             { title: 'Developer Tools', href: '/developer-tools' },
             {
               title: 'Understanding Programs',
